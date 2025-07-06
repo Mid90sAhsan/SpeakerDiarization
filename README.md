@@ -13,5 +13,6 @@ Perfect for use cases like:
 ## 🔥 What You'll Get
 
 Given a `.wav` file, the model returns output like:
+
 0.0s - 7.2s: Speaker SPEAKER_00
 8.8s - 15.6s: Speaker SPEAKER_01
